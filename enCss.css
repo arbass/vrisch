@@ -1,3 +1,6 @@
 [data-lang="de"] {
     display: none;
 }
+.button-turn-de {
+    opacity: 0.6;
+}
